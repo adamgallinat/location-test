@@ -1,0 +1,11 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+$p-size: 20px;
+
+body {
+	font: 100% $font-stack;
+	color: $primary-color;
+	font-size: $p-size;
+	width: 960px;
+	margin: 0 auto;
+}
